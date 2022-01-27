@@ -16,6 +16,8 @@ Basic knowledge of python is required.
 3. Insert the bot's prefix in the [config.json](./src/configuration/config.json).
 4. After coding the bot, run the bot with the [launch.bat](./src/launch.bat).
 
+Still having trouble? Visit the [Wiki](https://github.com/cens6r/discord-cogs-template/wiki).
+
 ## Contributing
 If you want to contribute, feel free to create an [issue](https://github.com/cens6r/discord-cogs-template/issues) or make a [pull request](https://github.com/cens6r/discord-cogs-template/pulls).
 
