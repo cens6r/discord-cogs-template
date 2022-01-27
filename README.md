@@ -7,10 +7,11 @@ A discord.py bot template with Cogs implemented.
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/cens6r/discord-cogs-template?style=flat-square)
 
 ## Instructions
-Before you start ⚠
+### Before you start ⚠
 <br>
 Basic knowledge of python is required.
 
+### Steps
 1. If you haven't already, install all the dependencies by running the [install.bat](./src/install.bat) or use the [requirements.txt](./requirements.txt).
 2. Insert the bot's token in the [.env](./src/configuration/.env).
 3. Insert the bot's prefix in the [config.json](./src/configuration/config.json).
