@@ -6,4 +6,5 @@ Before you start ⚠
 <br>
 Basic knowledge of python is required.
 
-1. If you haven't already, install all the dependencies by running the [install.bat](https://github.com/cens6r/discord-cogs-template/blob/main/src/install.bat) or use the [requirements.txt](https://github.com/cens6r/discord-cogs-template/blob/main/requirements.txt).
+1. If you haven't already, install all the dependencies by running the [install.bat](./src/install.bat) or use the [requirements.txt](./requirements.txt).
+2. Insert the bot's token in the [.env](./src/configuration/.env).
