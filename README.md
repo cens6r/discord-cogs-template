@@ -18,5 +18,3 @@ If you want to contribute, feel free to create an [issue](https://github.com/cen
 This template was created under the [MIT LICNESE](./LICENSE).
 <br>
 You can view information about it [here](https://opensource.org/licenses/MIT).
-
-<a class="github-button" href="https://github.com/cens6r" data-color-scheme="no-preference: dark; light: dark; dark: dark;" aria-label="Follow @cens6r on GitHub">Follow @cens6r</a>
