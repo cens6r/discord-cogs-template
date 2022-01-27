@@ -1,6 +1,8 @@
 # discord-cogs-template
 A discord.py bot template with Cogs implemented.
 
+![GitHub followers](https://img.shields.io/github/followers/cens6r?label=FOLLOWERS&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/cens6r/discord-cogs-template?label=STARS&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/cens6r/discord-cogs-template?style=flat-square)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/cens6r/discord-cogs-template?style=flat-square)
 
