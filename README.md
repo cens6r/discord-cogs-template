@@ -1,5 +1,3 @@
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-
 # discord-cogs-template
 A discord.py bot template with Cogs implemented.
 
