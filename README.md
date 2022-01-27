@@ -1,6 +1,8 @@
 # discord-cogs-template
 A discord.py bot template with Cogs implemented.
 
+![GitHub](https://img.shields.io/github/license/cens6r/discord-cogs-template?style=flat-square)
+
 ## Instructions
 Before you start ⚠
 <br>
