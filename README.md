@@ -8,7 +8,6 @@ A discord.py bot template with Cogs implemented.
 
 ## Instructions
 ### Before you start ⚠
-<br>
 Basic knowledge of python is required.
 
 ### Steps
