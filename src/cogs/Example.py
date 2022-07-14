@@ -8,7 +8,7 @@ class Example(commands.Cog):
 
     @commands.command()
     async def helloworld(self , ctx):
-      ctx.send('Hello World!')
+      await ctx.send('Hello World!')
       
 def setup(Client):
     Client.add_cog(Example(Client))
